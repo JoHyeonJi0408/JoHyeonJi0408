@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  <a href="https://blog.naver.com/whguswl0408">
- <img src="https://user-images.githubusercontent.com/69295697/108477037-107b0e80-72d6-11eb-928f-928c8044a93c.PNG">
+ <img width="40" src="https://user-images.githubusercontent.com/69295697/108477037-107b0e80-72d6-11eb-928f-928c8044a93c.PNG">
 <!--
 **JoHyeonJi0408/JoHyeonJi0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
