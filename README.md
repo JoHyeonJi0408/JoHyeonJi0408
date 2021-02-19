@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[blog][https://blog.naver.com/whguswl0408]
+[blog](https://blog.naver.com/whguswl0408)
 
 <!--
 **JoHyeonJi0408/JoHyeonJi0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
