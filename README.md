@@ -3,7 +3,6 @@
 
 
 <img width="40" alt="blog2" src="https://user-images.githubusercontent.com/69295697/108477037-107b0e80-72d6-11eb-928f-928c8044a93c.PNG">
-[내 블로그]("https://blog.naver.com/whguswl0408")
 
 
 <!--
