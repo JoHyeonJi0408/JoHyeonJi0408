@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi 👋
 
  <a href="https://blog.naver.com/whguswl0408">
  <img width="40" src="https://user-images.githubusercontent.com/69295697/108477037-107b0e80-72d6-11eb-928f-928c8044a93c.PNG">
+ 
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/whguswl0408)](https://zzsza.github.io/)
 <!--
 **JoHyeonJi0408/JoHyeonJi0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
