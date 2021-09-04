@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Hyeonji</h1>
-<h3 align="center">I'm looking for a job!</h3>
+<h3 align="center">I'm Studying!</h3>
 
 
 <h5 align="center">Languages and Tools:</h3>
