@@ -23,7 +23,7 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoHyeonJi0408&repo=Catchmind&theme=dracula" alt="JoHyeonJi0408"
 </a>
 <a href="https://github.com/JoHyeonJi0408/DirectX9">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoHyeonJi0408&repo=DirectX&theme=dracula" alt="JoHyeonJi0408" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoHyeonJi0408&repo=DirectX9&theme=dracula" alt="JoHyeonJi0408" />
 </a>
 
 <!--
