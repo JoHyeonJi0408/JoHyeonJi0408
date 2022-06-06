@@ -19,6 +19,7 @@
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JoHyeonJi0408&show_icons=true&theme=dracula" alt="JoHyeonJi0408" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoHyeonJi0408&show_icons=true&layout=compact&theme=dracula" alt="JoHyeonJi0408" />
  
 <!--
 **JoHyeonJi0408/JoHyeonJi0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
