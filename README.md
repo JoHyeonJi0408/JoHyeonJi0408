@@ -21,11 +21,11 @@
 
 <p align="center">
 <a href="https://jjrdd.tistory.com/">
-    <img src="http://img.shields.io/badge/-Hyeonji's Blog-pink?style=faltt&logo=Bloglovin/"
+    <img src="http://img.shields.io/badge/-Hyeonji's Blog-pink?style=faltt&logo=Bloglovin"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
-    <img src="http://img.shields.io/badge/-Hyeonji's Notion-fbf595?style=faltt&logo=Notion/"
+    <img src="http://img.shields.io/badge/-Hyeonji's Notion-fbf595?style=faltt&logo=Notion"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 </p>
     
