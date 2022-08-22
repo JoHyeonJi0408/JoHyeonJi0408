@@ -1,8 +1,6 @@
-<!--
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=D76283&height=300&section=header&text=HyeonJi-Jo&fontSize=90&fontAlignY=38&desc=Welcome%20to%20my page!&descSize=30" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=D76283&height=300&section=header&text=HyeonJi-Jo&fontSize=90&fontAlignY=38&desc=Welcome%20to%20my%20page!&descSize=30" />
 </p>
--->
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -31,7 +29,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
 </p>
 
-<!--
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=JoHyeonJi0408&show_icons=true&theme=dracula" alt="JoHyeonJi0408" />
 </p>
@@ -40,6 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoHyeonJi0408&show_icons=true&layout=compact&theme=dracula" alt="JoHyeonJi0408" />
 </p>
 
+<!--
 <a href="https://github.com/JoHyeonJi0408/Catchmind">
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoHyeonJi0408&repo=Catchmind&theme=dracula" alt="JoHyeonJi0408"
@@ -48,8 +46,8 @@
 <a href="https://github.com/JoHyeonJi0408/DirectX9">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoHyeonJi0408&repo=DirectX9&theme=dracula" alt="JoHyeonJi0408" />
 </a>
-
 -->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D76283&height=300&section=footer" />
 </p>
