@@ -1,3 +1,13 @@
+<!--
+### Welcome to Hyeonji's GitHub!🌱
+<p align="left">
+<a href="https://jjrdd.tistory.com/">
+    <img src="http://img.shields.io/badge/-Blog-orange?style=faltt&logo=tistory"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+-->
+
+
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=D76283&height=300&section=header&text=HyeonJi-Jo&fontSize=90&fontAlignY=38&desc=Welcome%20to%20my%20page!&descSize=30" />
 </p>
@@ -51,6 +61,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D76283&height=300&section=footer" />
 </p>
+
 
 
 <!--
