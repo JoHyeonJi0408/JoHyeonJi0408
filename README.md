@@ -4,6 +4,7 @@
     <img src="http://img.shields.io/badge/-Blog-orange?style=faltt&logo=tistory"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+    
 <!--
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=D76283&height=300&section=header&text=HyeonJi-Jo&fontSize=90&fontAlignY=38&desc=Welcome%20to%20my%20page!&descSize=30" />
@@ -44,7 +45,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoHyeonJi0408&show_icons=true&layout=compact&theme=dracula" alt="JoHyeonJi0408" />
 </p>
 
-<!--
 <a href="https://github.com/JoHyeonJi0408/Catchmind">
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoHyeonJi0408&repo=Catchmind&theme=dracula" alt="JoHyeonJi0408"
@@ -54,26 +54,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoHyeonJi0408&repo=DirectX9&theme=dracula" alt="JoHyeonJi0408" />
 </a>
 
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D76283&height=300&section=footer" />
 </p>
-
-
-
-
-**JoHyeonJi0408/JoHyeonJi0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-## Latest Blog Post
-[]()
