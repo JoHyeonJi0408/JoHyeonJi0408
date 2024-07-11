@@ -18,8 +18,8 @@ jobs:
         run: |
           RSS_FEED="http://jjrdd.tistory.com/rss"
           LATEST_POST=$(curl -s $RSS_FEED | xmllint --format - | grep -o '<item>.*</item>' | head -n 1)
-          TITLE=$(echo $LATEST_POST | xmllint --xpath 'string(//title)' -)
-          LINK=$(echo $LATEST_POST | xmllint --xpath 'string(//link)' -)
+           TITLE=$(echo $LATEST_POST | xmllint --xpath 'string(//title)' - 2>/dev/null || echo "No title")
+          LINK=$(echo $LATEST_POST | xmllint --xpath 'string(//link)' - 2>/dev/null || echo "No link")
 
           echo "## Latest Blog Post" > latest-post.md
           echo "[$TITLE]($LINK)" >> latest-post.md
