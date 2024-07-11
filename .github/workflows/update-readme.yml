@@ -25,7 +25,7 @@ jobs:
           fi
 
           POST_COUNT=5
-          POSTS=$(echo "$XML_DATA" | xmllint --xpath '//item[position() <= '"$POST_COUNT"']' -)
+          POSTS=$(echo "$XML_DATA" | xmllint --xpath '/rss/channel/item[position() <= '"$POST_COUNT"']' -)
 
           for ((i=1; i<=$POST_COUNT; i++)); do
             TITLE=$(echo "$POSTS" | xmllint --xpath 'string((//item)['"$i"']/title)' - 2>/dev/null || echo "No title")
