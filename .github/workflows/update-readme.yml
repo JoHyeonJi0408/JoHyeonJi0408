@@ -18,9 +18,13 @@ jobs:
       - name: Extract latest blog post
         run: |
           RSS_FEED="http://jjrdd.tistory.com/rss"
-          LATEST_POST=$(curl -s $RSS_FEED | xmllint --format - | grep -o '<item>.*</item>' | head -n 1)
-          TITLE=$(echo $LATEST_POST | xmllint --xpath 'string(//title)' - 2>/dev/null || echo "No title")
-          LINK=$(echo $LATEST_POST | xmllint --xpath 'string(//link)' - 2>/dev/null || echo "No link")
+          XML_DATA=$(curl -s $RSS_FEED)
+          if [[ $? -ne 0 ]]; then
+            echo "Failed to download RSS feed"
+            exit 1
+          fi
+          TITLE=$(echo "$XML_DATA" | xmllint --xpath 'string(/rss/channel/item/title)' - 2>/dev/null || echo "No title")
+          LINK=$(echo "$XML_DATA" | xmllint --xpath 'string(/rss/channel/item/link)' - 2>/dev/null || echo "No link")
 
           echo "## Latest Blog Post" > latest-post.md
           echo "[$TITLE]($LINK)" >> latest-post.md
