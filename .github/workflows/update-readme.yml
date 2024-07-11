@@ -29,8 +29,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'JoHyeonJi0408'
-          git config --global user.email '1692074@hansung.ac.kr'
+          git config --global user.name 'JohyeonJi0408'
+          git config --global user.email '1692074@hansung.ac.kr'  # 여기에 변경
           git add README.md
           git commit -m "Update README with latest blog post"
           git push
