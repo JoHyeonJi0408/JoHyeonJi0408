@@ -1,17 +1,37 @@
-name: Latest Blog Posts
+name: Update README with Latest Blog Post
 on:
   workflow_dispatch:
-  
+
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
+    name: Update README
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          commit_message: "Updated readme"
-          feed_list: "http://jjrdd.tistory.com/"
-          max_post_count: '5'
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl jq libxml2-utils
+
+      - name: Extract latest blog post
+        run: |
+          RSS_FEED="http://jjrdd.tistory.com/rss"
+          LATEST_POST=$(curl -s $RSS_FEED | xmllint --format - | grep -o '<item>.*</item>' | head -n 1)
+          TITLE=$(echo $LATEST_POST | xmllint --xpath 'string(//title)' - 2>/dev/null || echo "No title")
+          LINK=$(echo $LATEST_POST | xmllint --xpath 'string(//link)' - 2>/dev/null || echo "No link")
+
+          echo "## Latest Blog Post" > latest-post.md
+          echo "[$TITLE]($LINK)" >> latest-post.md
+
+          cat README.md latest-post.md > new-README.md
+          mv new-README.md README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'JoHyeonJi0408'
+          git config --global user.email '1692074@hansung.ac.kr'  # 여기에 변경
+          git add README.md
+          git commit -m "Update README with latest blog post"
+          git push
