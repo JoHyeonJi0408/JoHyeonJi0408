@@ -1,0 +1,36 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Extract RSS feed and update README
+        run: |
+          sudo apt-get install -y jq
+          RSS_FEED="http://jjrdd.tistory.com/rss"
+          LATEST_POST=$(curl -s $RSS_FEED | grep -o '<item>.*</item>' | head -n 1)
+          TITLE=$(echo $LATEST_POST | grep -o '<title>.*</title>' | sed 's/<[^>]*>//g')
+          LINK=$(echo $LATEST_POST | grep -o '<link>.*</link>' | sed 's/<[^>]*>//g')
+          
+          echo "## Latest Blog Post" > latest-post.md
+          echo "[$TITLE]($LINK)" >> latest-post.md
+          
+          cat README.md latest-post.md > new-README.md
+          mv new-README.md README.md
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "Update README with latest blog post"
+          git push
