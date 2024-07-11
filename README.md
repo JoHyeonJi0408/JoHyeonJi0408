@@ -4,6 +4,9 @@
     <img src="http://img.shields.io/badge/-Blog-orange?style=faltt&logo=tistory"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
     
 <!--
 <p align="center">
