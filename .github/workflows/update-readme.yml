@@ -34,9 +34,8 @@ jobs:
             echo "[$TITLE]($LINK)" >> latest-post.md
           done
 
-          cp README.md README_backup.md
-
-          cat latest-post.md > README.md
+          cat README.md latest-post.md > new-README.md
+          mv new-README.md README.md
 
       - name: Commit and Push Changes
         run: |
