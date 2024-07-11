@@ -4,9 +4,6 @@
     <img src="http://img.shields.io/badge/-Blog-orange?style=faltt&logo=tistory"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
     
 <!--
 <p align="center">
@@ -61,9 +58,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D76283&height=300&section=footer" />
 </p>
 -->
-## Latest Blog Post
-[No title](No link)
-## Latest Blog Post
-[[프로그래머스] JadenCase 문자열 만들기](http://jjrdd.tistory.com/77)
 ## Latest Blog Post
 [[프로그래머스] JadenCase 문자열 만들기](http://jjrdd.tistory.com/77)
