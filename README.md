@@ -1,13 +1,12 @@
-<!--
-### Welcome to Hyeonji's GitHub!🌱
+## Welcome to Hyeonji's GitHub!🌱
 <p align="left">
 <a href="https://jjrdd.tistory.com/">
     <img src="http://img.shields.io/badge/-Blog-orange?style=faltt&logo=tistory"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
--->
-
-
+    
+## Latest Blog Post
+<!--
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=D76283&height=300&section=header&text=HyeonJi-Jo&fontSize=90&fontAlignY=38&desc=Welcome%20to%20my%20page!&descSize=30" />
 </p>
@@ -56,7 +55,7 @@
 <a href="https://github.com/JoHyeonJi0408/DirectX9">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JoHyeonJi0408&repo=DirectX9&theme=dracula" alt="JoHyeonJi0408" />
 </a>
--->
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D76283&height=300&section=footer" />
@@ -64,7 +63,7 @@
 
 
 
-<!--
+
 **JoHyeonJi0408/JoHyeonJi0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -78,5 +77,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Latest Blog Post
-[]()
