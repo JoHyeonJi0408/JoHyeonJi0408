@@ -13,5 +13,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           commit_message: "Updated readme"
-          feed_list: 'https://jjrdd.tistory.com/rss'
-          max_post_count: '3'
+          feed_list: "https://jjrdd.tistory.com/"
+          max_post_count: '5'
