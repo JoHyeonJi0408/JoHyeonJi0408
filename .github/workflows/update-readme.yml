@@ -9,13 +9,17 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl jq libxml2-utils
+
       - name: Extract RSS feed and update README
         run: |
-          sudo apt-get install -y jq
           RSS_FEED="http://jjrdd.tistory.com/rss"
-          LATEST_POST=$(curl -s $RSS_FEED | grep -o '<item>.*</item>' | head -n 1)
-          TITLE=$(echo $LATEST_POST | grep -o '<title>.*</title>' | sed 's/<[^>]*>//g')
-          LINK=$(echo $LATEST_POST | grep -o '<link>.*</link>' | sed 's/<[^>]*>//g')
+          LATEST_POST=$(curl -s $RSS_FEED | xmllint --format - | grep -o '<item>.*</item>' | head -n 1)
+          TITLE=$(echo $LATEST_POST | xmllint --xpath 'string(//title)' -)
+          LINK=$(echo $LATEST_POST | xmllint --xpath 'string(//link)' -)
 
           echo "## Latest Blog Post" > latest-post.md
           echo "[$TITLE]($LINK)" >> latest-post.md
