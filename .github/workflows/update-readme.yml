@@ -23,6 +23,8 @@ jobs:
             echo "Failed to download RSS feed"
             exit 1
           fi
+
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/d' README.md
           
           echo "<!-- BLOG-POST-LIST:START -->" > latest-post.md
           echo "### Latest Blog Posts" >> latest-post.md
@@ -33,7 +35,6 @@ jobs:
           done
           echo "<!-- BLOG-POST-LIST:END -->" >> latest-post.md
 
-          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/d' README.md
           sed -i '/<!-- BLOG-POST-LIST:START -->/r latest-post.md' README.md
 
       - name: Commit and Push Changes
