@@ -11,3 +11,5 @@
 <!-- BLOG-POST-LIST:END -->
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:END -->
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:END -->
