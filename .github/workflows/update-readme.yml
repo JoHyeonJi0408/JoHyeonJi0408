@@ -33,8 +33,8 @@ jobs:
           done
           echo "<!-- BLOG-POST-LIST:END -->" >> latest-post.md
 
-          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/d' README.md
-          echo -i '/<!-- BLOG-POST-LIST:START -->/r latest-post.md' README.md
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n### Latest Blog Posts\n<!-- BLOG-POST-LIST:END -->' README.md
+          sed -i '/<!-- BLOG-POST-LIST:START -->/r latest-post.md' README.md
 
       - name: Commit and Push Changes
         run: |
