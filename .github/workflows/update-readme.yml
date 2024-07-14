@@ -25,7 +25,7 @@ jobs:
           fi
           
           echo "<!-- BLOG-POST-LIST:START -->" > latest-post.md
-          echo "## Latest Blog Posts" >> latest-post.md
+          echo "### Latest Blog Posts" >> latest-post.md
           for ((i=1; i<=5; i++)); do
             TITLE=$(echo "$XML_DATA" | xmllint --xpath "string(/rss/channel/item[$i]/title)" - 2>/dev/null || echo "No title")
             LINK=$(echo "$XML_DATA" | xmllint --xpath "string(/rss/channel/item[$i]/link)" - 2>/dev/null || echo "No link")
