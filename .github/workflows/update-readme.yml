@@ -31,6 +31,7 @@ jobs:
             echo "- [$TITLE]($LINK)" >> latest-post.md
           done
 
+          sed -i '/<!-- BLOG-POST-LIST:START -->/d' README.md
           sed -i '/<!-- BLOG-POST-LIST:START -->/r latest-post.md' README.md
 
       - name: Commit and Push Changes
