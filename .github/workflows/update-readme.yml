@@ -23,8 +23,6 @@ jobs:
             echo "Failed to download RSS feed"
             exit 1
           fi
-
-          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/d' README.md
           
           echo "<!-- BLOG-POST-LIST:START -->" > latest-post.md
           echo "### Latest Blog Posts" >> latest-post.md
