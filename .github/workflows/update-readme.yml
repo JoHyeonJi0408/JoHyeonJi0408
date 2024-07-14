@@ -23,15 +23,18 @@ jobs:
             echo "Failed to download RSS feed"
             exit 1
           fi
-
+          
+          echo "<!-- BLOG-POST-LIST:START -->" > latest-post.md
+          echo "## Latest Blog Posts" >> latest-post.md
           for ((i=1; i<=5; i++)); do
             TITLE=$(echo "$XML_DATA" | xmllint --xpath "string(/rss/channel/item[$i]/title)" - 2>/dev/null || echo "No title")
             LINK=$(echo "$XML_DATA" | xmllint --xpath "string(/rss/channel/item[$i]/link)" - 2>/dev/null || echo "No link")
             echo "- [$TITLE]($LINK)" >> latest-post.md
           done
-
-          cat README.md latest-post.md > new-README.md
-          mv new-README.md README.md
+          echo "<!-- BLOG-POST-LIST:END -->" >> latest-post.md
+          
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n## Latest Blog Posts\n<!-- BLOG-POST-LIST:END -->' README.md
+          sed -i '/<!-- BLOG-POST-LIST:START -->/r latest-post.md' README.md
 
       - name: Commit and Push Changes
         run: |
