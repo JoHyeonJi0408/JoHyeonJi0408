@@ -1,7 +1,7 @@
 ### Hi! Weclome to Hyeonji's GitHub!🌱
 
-<!-- BLOG-POST-LIST:START -->
 ### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
 - [[프로그래머스] 피보나치 수](http://jjrdd.tistory.com/82)
 - [[프로그래머스] 다음 큰 숫자](http://jjrdd.tistory.com/81)
 - [[프로그래머스] 숫자의 표현](http://jjrdd.tistory.com/80)
