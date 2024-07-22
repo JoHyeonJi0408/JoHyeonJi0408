@@ -33,7 +33,7 @@ jobs:
           done
 
           CURRENT_DATE=$(TZ='Asia/Seoul' date "+%Y-%m-%d %H:%M:%S")
-          echo "\nLast updated: $CURRENT_DATE KST\n" >> latest-post.md
+          echo "Last updated: $CURRENT_DATE KST" >> latest-post.md
 
           echo "<!-- BLOG-POST-LIST:END -->" >> latest-post.md
 
