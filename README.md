@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025년 1월 회고](http://jjrdd.tistory.com/261)
 - [웹 개발 1도 모르는 사람이 웹페이지 만들기 프로젝트 11일차](http://jjrdd.tistory.com/260)
 - [웹 개발 1도 모르는 사람이 웹페이지 만들기 프로젝트 10일차](http://jjrdd.tistory.com/259)
 - [웹 개발 1도 모르는 사람이 웹페이지 만들기 프로젝트 9일차](http://jjrdd.tistory.com/258)
 - [웹 개발 1도 모르는 사람이 웹페이지 만들기 프로젝트 8일차](http://jjrdd.tistory.com/257)
-- [웹 개발 1도 모르는 사람이 웹페이지 만들기 프로젝트 7일차](http://jjrdd.tistory.com/256)
 
-###### Last updated: 2025-02-04 10:25:27 KST
+###### Last updated: 2025-02-05 10:26:28 KST
 <!-- BLOG-POST-LIST:END -->
