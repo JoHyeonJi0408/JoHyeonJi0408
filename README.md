@@ -12,5 +12,5 @@
 - [웹 개발 1도 모르는 사람이 웹페이지 만들기 프로젝트 10일차](http://jjrdd.tistory.com/259)
 - [웹 개발 1도 모르는 사람이 웹페이지 만들기 프로젝트 9일차](http://jjrdd.tistory.com/258)
 
-###### Last updated: 2025-02-20 10:27:37 KST
+###### Last updated: 2025-02-21 10:35:53 KST
 <!-- BLOG-POST-LIST:END -->
