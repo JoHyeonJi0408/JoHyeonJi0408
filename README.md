@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [컴퓨터가 이해하는 정보](http://jjrdd.tistory.com/264)
 - [2025년 2월 회고](http://jjrdd.tistory.com/263)
 - [웹 개발 1도 모르는 사람이 웹페이지 만들기 프로젝트 12일차](http://jjrdd.tistory.com/262)
 - [2025년 1월 회고](http://jjrdd.tistory.com/261)
 - [웹 개발 1도 모르는 사람이 웹페이지 만들기 프로젝트 11일차](http://jjrdd.tistory.com/260)
-- [웹 개발 1도 모르는 사람이 웹페이지 만들기 프로젝트 10일차](http://jjrdd.tistory.com/259)
 
-###### Last updated: 2025-03-10 10:18:04 KST
+###### Last updated: 2025-03-11 10:39:35 KST
 <!-- BLOG-POST-LIST:END -->
