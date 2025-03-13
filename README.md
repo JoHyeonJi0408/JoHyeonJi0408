@@ -12,5 +12,5 @@
 - [2025년 1월 회고](http://jjrdd.tistory.com/261)
 - [웹 개발 1도 모르는 사람이 웹페이지 만들기 프로젝트 11일차](http://jjrdd.tistory.com/260)
 
-###### Last updated: 2025-03-12 10:38:33 KST
+###### Last updated: 2025-03-13 10:40:18 KST
 <!-- BLOG-POST-LIST:END -->
