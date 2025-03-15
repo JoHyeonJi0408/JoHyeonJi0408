@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [서버 증설 횟수](http://jjrdd.tistory.com/271)
+- [비밀 코드 해독](http://jjrdd.tistory.com/270)
+- [택배 상자 꺼내기](http://jjrdd.tistory.com/269)
+- [[PCCP 기출문제] 1번 / 동영상 재생기](http://jjrdd.tistory.com/268)
 - [[PCCE 기출문제] 10번 / 공원](http://jjrdd.tistory.com/267)
-- [유연근무제](http://jjrdd.tistory.com/266)
-- [[PCCE 기출문제] 9번 / 지폐 접기](http://jjrdd.tistory.com/265)
-- [컴퓨터가 이해하는 정보](http://jjrdd.tistory.com/264)
-- [2025년 2월 회고](http://jjrdd.tistory.com/263)
 
-###### Last updated: 2025-03-14 10:38:19 KST
+###### Last updated: 2025-03-15 10:38:33 KST
 <!-- BLOG-POST-LIST:END -->
