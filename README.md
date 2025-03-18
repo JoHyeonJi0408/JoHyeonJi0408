@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [정렬(Sorting)](http://jjrdd.tistory.com/273)
+- [지게차와 크레인](http://jjrdd.tistory.com/272)
 - [서버 증설 횟수](http://jjrdd.tistory.com/271)
 - [비밀 코드 해독](http://jjrdd.tistory.com/270)
 - [택배 상자 꺼내기](http://jjrdd.tistory.com/269)
-- [[PCCP 기출문제] 1번 / 동영상 재생기](http://jjrdd.tistory.com/268)
-- [[PCCE 기출문제] 10번 / 공원](http://jjrdd.tistory.com/267)
 
-###### Last updated: 2025-03-17 10:42:37 KST
+###### Last updated: 2025-03-18 10:40:35 KST
 <!-- BLOG-POST-LIST:END -->
