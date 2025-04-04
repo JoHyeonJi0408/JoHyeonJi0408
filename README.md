@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [탐색(Search)](http://jjrdd.tistory.com/274)
 - [정렬(Sorting)](http://jjrdd.tistory.com/273)
 - [지게차와 크레인](http://jjrdd.tistory.com/272)
 - [서버 증설 횟수](http://jjrdd.tistory.com/271)
 - [비밀 코드 해독](http://jjrdd.tistory.com/270)
-- [택배 상자 꺼내기](http://jjrdd.tistory.com/269)
 
-###### Last updated: 2025-04-03 10:41:54 KST
+###### Last updated: 2025-04-04 10:41:59 KST
 <!-- BLOG-POST-LIST:END -->
