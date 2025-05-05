@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [완전범죄](http://jjrdd.tistory.com/277)
 - [그래프(Graph)](http://jjrdd.tistory.com/276)
 - [2025년 3월 회고](http://jjrdd.tistory.com/275)
 - [탐색(Search)](http://jjrdd.tistory.com/274)
 - [정렬(Sorting)](http://jjrdd.tistory.com/273)
-- [지게차와 크레인](http://jjrdd.tistory.com/272)
 
-###### Last updated: 2025-05-04 10:56:45 KST
+###### Last updated: 2025-05-05 10:51:02 KST
 <!-- BLOG-POST-LIST:END -->
