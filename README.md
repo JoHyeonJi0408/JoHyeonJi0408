@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [기둥과 보 설치](http://jjrdd.tistory.com/280)
 - [첫 번째 미니게임 플래피 버드 개발 일지](http://jjrdd.tistory.com/279)
 - [2025년 4월 회고](http://jjrdd.tistory.com/278)
 - [완전범죄](http://jjrdd.tistory.com/277)
 - [그래프(Graph)](http://jjrdd.tistory.com/276)
-- [2025년 3월 회고](http://jjrdd.tistory.com/275)
 
-###### Last updated: 2025-05-12 10:52:18 KST
+###### Last updated: 2025-05-13 10:50:22 KST
 <!-- BLOG-POST-LIST:END -->
