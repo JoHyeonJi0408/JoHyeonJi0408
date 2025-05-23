@@ -12,5 +12,5 @@
 - [기둥과 보 설치](http://jjrdd.tistory.com/280)
 - [첫 번째 미니게임 플래피 버드 개발 일지](http://jjrdd.tistory.com/279)
 
-###### Last updated: 2025-05-22 10:49:11 KST
+###### Last updated: 2025-05-23 10:49:12 KST
 <!-- BLOG-POST-LIST:END -->
