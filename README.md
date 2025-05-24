@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [두 번째 미니게임 블록 깨기 개발 일지 2](http://jjrdd.tistory.com/284)
 - [CPU - 레지스터](http://jjrdd.tistory.com/283)
 - [[2023 KAKAO BLIND RECRUITMENT] 미로 탈출 명령어](http://jjrdd.tistory.com/282)
 - [두 번째 미니게임 블록 깨기 개발 일지 1](http://jjrdd.tistory.com/281)
 - [기둥과 보 설치](http://jjrdd.tistory.com/280)
-- [첫 번째 미니게임 플래피 버드 개발 일지](http://jjrdd.tistory.com/279)
 
-###### Last updated: 2025-05-23 10:49:12 KST
+###### Last updated: 2025-05-24 10:45:14 KST
 <!-- BLOG-POST-LIST:END -->
