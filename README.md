@@ -12,5 +12,5 @@
 - [두 번째 미니게임 블록 깨기 개발 일지 1](http://jjrdd.tistory.com/281)
 - [기둥과 보 설치](http://jjrdd.tistory.com/280)
 
-###### Last updated: 2025-05-24 10:45:14 KST
+###### Last updated: 2025-05-25 10:57:45 KST
 <!-- BLOG-POST-LIST:END -->
