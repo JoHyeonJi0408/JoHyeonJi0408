@@ -12,5 +12,5 @@
 - [CPU - 레지스터](http://jjrdd.tistory.com/283)
 - [[2023 KAKAO BLIND RECRUITMENT] 미로 탈출 명령어](http://jjrdd.tistory.com/282)
 
-###### Last updated: 2025-05-27 10:48:29 KST
+###### Last updated: 2025-05-28 10:50:20 KST
 <!-- BLOG-POST-LIST:END -->
