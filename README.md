@@ -12,5 +12,5 @@
 - [[2021 KAKAO BLIND RECRUITMENT] 광고 삽입](http://jjrdd.tistory.com/285)
 - [두 번째 미니게임 블록 깨기 개발 일지 2](http://jjrdd.tistory.com/284)
 
-###### Last updated: 2025-06-01 11:08:32 KST
+###### Last updated: 2025-06-02 10:56:34 KST
 <!-- BLOG-POST-LIST:END -->
