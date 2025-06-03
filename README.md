@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [두 번째 미니게임 블록 깨기 개발 일지 4](http://jjrdd.tistory.com/289)
 - [CPU 성능 향상을 위한 설계](http://jjrdd.tistory.com/288)
 - [두 번째 미니게임 블록 깨기 개발 일지 3](http://jjrdd.tistory.com/287)
 - [인터럽트](http://jjrdd.tistory.com/286)
 - [[2021 KAKAO BLIND RECRUITMENT] 광고 삽입](http://jjrdd.tistory.com/285)
-- [두 번째 미니게임 블록 깨기 개발 일지 2](http://jjrdd.tistory.com/284)
 
-###### Last updated: 2025-06-02 10:56:34 KST
+###### Last updated: 2025-06-03 10:52:52 KST
 <!-- BLOG-POST-LIST:END -->
