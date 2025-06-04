@@ -12,5 +12,5 @@
 - [인터럽트](http://jjrdd.tistory.com/286)
 - [[2021 KAKAO BLIND RECRUITMENT] 광고 삽입](http://jjrdd.tistory.com/285)
 
-###### Last updated: 2025-06-03 10:52:52 KST
+###### Last updated: 2025-06-04 10:53:19 KST
 <!-- BLOG-POST-LIST:END -->
