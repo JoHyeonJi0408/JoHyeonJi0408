@@ -12,5 +12,5 @@
 - [두 번째 미니게임 블록 깨기 개발 일지 3](http://jjrdd.tistory.com/287)
 - [인터럽트](http://jjrdd.tistory.com/286)
 
-###### Last updated: 2025-06-05 10:51:45 KST
+###### Last updated: 2025-06-06 10:50:15 KST
 <!-- BLOG-POST-LIST:END -->
