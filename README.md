@@ -12,5 +12,5 @@
 - [CPU 성능 향상을 위한 설계](http://jjrdd.tistory.com/288)
 - [두 번째 미니게임 블록 깨기 개발 일지 3](http://jjrdd.tistory.com/287)
 
-###### Last updated: 2025-06-12 10:51:35 KST
+###### Last updated: 2025-06-13 10:53:15 KST
 <!-- BLOG-POST-LIST:END -->
