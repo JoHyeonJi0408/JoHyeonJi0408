@@ -12,5 +12,5 @@
 - [[2017 카카오코드 예선] 보행자 천국](http://jjrdd.tistory.com/290)
 - [두 번째 미니게임 블록 깨기 개발 일지 4](http://jjrdd.tistory.com/289)
 
-###### Last updated: 2025-06-17 10:53:16 KST
+###### Last updated: 2025-06-18 10:53:21 KST
 <!-- BLOG-POST-LIST:END -->
