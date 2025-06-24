@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[2020 KAKAO BLIND RECRUITMENT] 외벽 점검](http://jjrdd.tistory.com/294)
 - [110 옮기기](http://jjrdd.tistory.com/293)
 - [세 번째 미니게임 미로 탈출 개발 일지 1](http://jjrdd.tistory.com/292)
 - [2025년 5월 회고](http://jjrdd.tistory.com/291)
 - [[2017 카카오코드 예선] 보행자 천국](http://jjrdd.tistory.com/290)
-- [두 번째 미니게임 블록 깨기 개발 일지 4](http://jjrdd.tistory.com/289)
 
-###### Last updated: 2025-06-23 11:00:46 KST
+###### Last updated: 2025-06-24 10:55:13 KST
 <!-- BLOG-POST-LIST:END -->
