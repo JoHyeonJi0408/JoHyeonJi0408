@@ -12,5 +12,5 @@
 - [2025년 5월 회고](http://jjrdd.tistory.com/291)
 - [[2017 카카오코드 예선] 보행자 천국](http://jjrdd.tistory.com/290)
 
-###### Last updated: 2025-06-24 10:55:13 KST
+###### Last updated: 2025-06-25 10:54:07 KST
 <!-- BLOG-POST-LIST:END -->
