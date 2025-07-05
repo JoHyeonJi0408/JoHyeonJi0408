@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025년 6월 회고](http://jjrdd.tistory.com/299)
+- [세 번째 미니게임 미로 탈출 개발 일지 4](http://jjrdd.tistory.com/298)
 - [세 번째 미니게임 미로 탈출 개발 일지 3](http://jjrdd.tistory.com/297)
 - [세 번째 미니게임 미로 탈출 개발 일지 2](http://jjrdd.tistory.com/296)
 - [[2023 KAKAO BLIND RECRUITMENT] 표현 가능한 이진트리](http://jjrdd.tistory.com/295)
-- [[2020 KAKAO BLIND RECRUITMENT] 외벽 점검](http://jjrdd.tistory.com/294)
-- [110 옮기기](http://jjrdd.tistory.com/293)
 
-###### Last updated: 2025-07-04 10:53:30 KST
+###### Last updated: 2025-07-05 10:50:12 KST
 <!-- BLOG-POST-LIST:END -->
