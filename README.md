@@ -12,5 +12,5 @@
 - [세 번째 미니게임 미로 탈출 개발 일지 4](http://jjrdd.tistory.com/298)
 - [세 번째 미니게임 미로 탈출 개발 일지 3](http://jjrdd.tistory.com/297)
 
-###### Last updated: 2025-07-24 11:00:33 KST
+###### Last updated: 2025-07-25 11:01:17 KST
 <!-- BLOG-POST-LIST:END -->
