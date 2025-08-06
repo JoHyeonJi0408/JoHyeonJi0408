@@ -12,5 +12,5 @@
 - [2025년 6월 회고](http://jjrdd.tistory.com/299)
 - [세 번째 미니게임 미로 탈출 개발 일지 4](http://jjrdd.tistory.com/298)
 
-###### Last updated: 2025-08-05 11:05:50 KST
+###### Last updated: 2025-08-06 11:04:58 KST
 <!-- BLOG-POST-LIST:END -->
