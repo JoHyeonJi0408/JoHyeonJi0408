@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2025년 8월 회고](http://jjrdd.tistory.com/303)
 - [2025년 7월 회고](http://jjrdd.tistory.com/302)
 - [렌더링 파이프라인(Rendering Pipeline)](http://jjrdd.tistory.com/301)
 - [가비지 컬렉션(Garbage Collection, GC)](http://jjrdd.tistory.com/300)
 - [2025년 6월 회고](http://jjrdd.tistory.com/299)
-- [세 번째 미니게임 미로 탈출 개발 일지 4](http://jjrdd.tistory.com/298)
 
-###### Last updated: 2025-09-02 10:45:47 KST
+###### Last updated: 2025-09-03 10:38:22 KST
 <!-- BLOG-POST-LIST:END -->
