@@ -12,5 +12,5 @@
 - [가비지 컬렉션(Garbage Collection, GC)](http://jjrdd.tistory.com/300)
 - [2025년 6월 회고](http://jjrdd.tistory.com/299)
 
-###### Last updated: 2025-09-23 10:40:57 KST
+###### Last updated: 2025-09-24 10:43:13 KST
 <!-- BLOG-POST-LIST:END -->
