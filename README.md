@@ -12,5 +12,5 @@
 - [렌더링 파이프라인(Rendering Pipeline)](http://jjrdd.tistory.com/301)
 - [가비지 컬렉션(Garbage Collection, GC)](http://jjrdd.tistory.com/300)
 
-###### Last updated: 2025-10-05 10:50:21 KST
+###### Last updated: 2025-10-06 10:43:57 KST
 <!-- BLOG-POST-LIST:END -->
