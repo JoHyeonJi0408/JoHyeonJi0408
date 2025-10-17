@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [카메라에 오브젝트가 보이는지 판별하기](http://jjrdd.tistory.com/305)
 - [2025년 9월 회고](http://jjrdd.tistory.com/304)
 - [2025년 8월 회고](http://jjrdd.tistory.com/303)
 - [2025년 7월 회고](http://jjrdd.tistory.com/302)
 - [렌더링 파이프라인(Rendering Pipeline)](http://jjrdd.tistory.com/301)
-- [가비지 컬렉션(Garbage Collection, GC)](http://jjrdd.tistory.com/300)
 
-###### Last updated: 2025-10-16 10:44:48 KST
+###### Last updated: 2025-10-17 10:43:46 KST
 <!-- BLOG-POST-LIST:END -->
