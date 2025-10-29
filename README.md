@@ -12,5 +12,5 @@
 - [2025년 7월 회고](http://jjrdd.tistory.com/302)
 - [렌더링 파이프라인(Rendering Pipeline)](http://jjrdd.tistory.com/301)
 
-###### Last updated: 2025-10-28 10:45:49 KST
+###### Last updated: 2025-10-29 10:50:55 KST
 <!-- BLOG-POST-LIST:END -->
