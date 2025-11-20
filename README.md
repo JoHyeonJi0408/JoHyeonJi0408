@@ -12,5 +12,5 @@
 - [2025년 8월 회고](https://jjrdd.tistory.com/303)
 - [2025년 7월 회고](https://jjrdd.tistory.com/302)
 
-###### Last updated: 2025-11-19 10:48:46 KST
+###### Last updated: 2025-11-20 10:47:13 KST
 <!-- BLOG-POST-LIST:END -->
