@@ -6,11 +6,11 @@
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [1년 반, Unity 게임 개발자로 이직하기까지](https://jjrdd.tistory.com/307)
 - [2025년 10월 회고](https://jjrdd.tistory.com/306)
 - [카메라에 오브젝트가 보이는지 판별하기](https://jjrdd.tistory.com/305)
 - [2025년 9월 회고](https://jjrdd.tistory.com/304)
 - [2025년 8월 회고](https://jjrdd.tistory.com/303)
-- [2025년 7월 회고](https://jjrdd.tistory.com/302)
 
-###### Last updated: 2025-12-06 10:46:36 KST
+###### Last updated: 2025-12-07 11:01:33 KST
 <!-- BLOG-POST-LIST:END -->
